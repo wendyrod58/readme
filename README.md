@@ -4,8 +4,13 @@
   ReadMe file generator created with NodeJS. This command line app generates a professional and high-quality README file
 
   # Table of Contents
-  1. Installation instructions 2. Usage 3. License 4. Contribution 5. Tests 6. Questions
-  
+  * [Installation](#Installation)
+  * [usage](#Usage)
+  * [License Badge](#License)
+  * [Contributing](#Contributing)
+  * [Tests](#Test)
+  * [Questions](#Questions)
+
 # Installation
 Create a JS file, use inquirer package instructions to create questions for each section of the README file, create function to write ReadMe, create function to Initialize file, add function call to initialize file, create another JS file for the markdown generator
 
@@ -22,6 +27,6 @@ by Wendy
 none
 
 # Questions
-GitHub name wendyrod58, contact via email wendyrod58@gmail.com
+GitHub user: wendyrod58, for any questions contact me at wendyrod58@gmail.com
 
   
