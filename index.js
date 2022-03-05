@@ -15,11 +15,6 @@ const questions = [
         type: 'input',
         message: 'Enter description'
     },
-    // {
-    //     name: 'tableOfContents',
-    //     type: 'input',
-    //     message: 'Enter contents'
-    // },
     {
         name: 'Instructions',
         type: 'input',
